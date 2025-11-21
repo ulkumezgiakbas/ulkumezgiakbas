@@ -26,10 +26,10 @@ I document the process on my Instagram dev blog **[@yourfavcoder]** — dev logs
 
 ### 🧠 What I'm Building
 
-- ♻️ **RecycleVision** – YOLOv8 waste classification + servo-controlled hardware bin
-- 🎵 **MoodClassifier** – NLP-based emotion detection + music recommendation
-- 🪐 **OrbitalSim** – orbital physics simulation with Python + Matplotlib
-- 🎨 **Web micro-projects & animations** – frontend experiments for Instagram
+- ♻️ **RecycleVision** – YOLOv8 waste classification + servo-controlled hardware bin  
+- 🎵 **MoodClassifier** – NLP-based emotion detection + music recommendation  
+- 🪐 **OrbitalSim** – orbital physics simulation with Python + Matplotlib  
+- 🎨 **Web micro-projects & animations** – frontend experiments for Instagram  
 
 ---
 
@@ -51,10 +51,10 @@ I document the process on my Instagram dev blog **[@yourfavcoder]** — dev logs
 
 ### 📸 Featured Instagram Posts
 
-[![Post 1](https://img.shields.io/badge/-Kasımpatı%20Animation-ffffff?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/p/DRMHClEDVfc/)
-[![Post 2](https://img.shields.io/badge/-JavaScript%20%7C%20Love%20Button-ffffff?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/p/DQ3-gDTDb18/)
-[![Post 3](https://img.shields.io/badge/-CSS%20%7C%20Floating%20Flowers-ffffff?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/p/DQlXEAcjOmb/)
-[![Post 4](https://img.shields.io/badge/-3D%20Stylized%20Sword-ffffff?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/p/DRO0OhcjBuH/)
+[![Post 1](https://img.shields.io/badge/-Flower%20Animation-ffffff?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/p/DRMHClEDVfc/)
+[![Post 2](https://img.shields.io/badge/-Tavsiye%20Veren%20Mini%20App-ffffff?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/p/DQ3-gDTDb18/)
+[![Post 3](https://img.shields.io/badge/-Instagram%20Like%20Animation-ffffff?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/p/DQlXEAcjOmb/)
+[![Post 4](https://img.shields.io/badge/-Do%20You%20Love%20Me%20App-ffffff?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/p/DRO0OhcjBuH/)
 
 ---
 
@@ -70,4 +70,3 @@ I document the process on my Instagram dev blog **[@yourfavcoder]** — dev logs
    I like building real, functional tools that carry design and intention.
    Shipping > dreaming.
 </details>
-
