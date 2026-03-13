@@ -1,11 +1,11 @@
 # 🛰️ Ülküm Ezgi Akbaş
 
-**`Aspiring AI Engineer / Machine Learning Developer`**
+**`Developer & Aspiring AI Engineer`**
 
-I build intelligent systems. From Computer Vision pipelines to NLP-powered tools, I bridge the gap between Industrial Engineering logic and Machine Learning production.  
-Industrial Engineering student → ML Engineer in the making → Shipping production-ready AI.
+I build things. From web experiences to ML experiments, I bridge the gap between Industrial Engineering logic and software development.  
+Industrial Engineering student → Full-stack learner → AI-curious creator.
 
-I document my technical deep-dives on Instagram **[@yourfavcoder]** — ML logs, architecture breakdowns, and AI experiments.
+I document my journey on Instagram **[@yourfavcoder]** — dev logs, code animations, and learning AI.
 
 <p align="left">
   <a href="https://www.instagram.com/yourfavcoder/">
@@ -24,50 +24,53 @@ I document my technical deep-dives on Instagram **[@yourfavcoder]** — ML logs,
 
 ---
 
-### 🧠 ML Engineering Roadmap
+### 🧠 Current Focus & Projects
 
-- ♻️ **RecycleVision Pro** – Real-time waste classification using **YOLOv8** + Edge deployment with **FastAPI**.
-- 🎵 **MoodClassifier** – **NLP** based sentiment analysis + Spotify API integration for personalized recommendations.
-- 🏗️ **ML Pipeline Architect** – End-to-end data processing, feature engineering, and model versioning.
-- 🪐 **OrbitalSim** – Physics-informed simulations using **Python** & numerical methods.
+- ♻️ **RecycleVision** – Waste classification experiments using **YOLOv8** and computer vision.
+- 🎵 **MoodClassifier** – Exploring **NLP** for emotion detection and music recommendation.
+- 🪐 **OrbitalSim** – Physics simulations with **Python** & Matplotlib.
+- 🛠️ **The Learning Path** – Deep diving into **SQL** and **Machine Learning Foundations**.
 
 ---
 
-### 🧰 Tech Stack & Tools
+### 🧰 Tech Stack
 
-**AI / Machine Learning**
+**Programming & Data**
 <br/>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="PyTorch" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
-<img align="left" alt="TensorFlow" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
 <img align="left" alt="NumPy" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
 <img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-<img align="left" alt="Scikit-Learn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sklearn/sklearn-original.svg" />
-<img align="left" alt="OpenCV" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-plain.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <br/><br/>
 
-**Data & Engineering**
+**Web & UI**
 <br/>
-<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="FastAPI" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <br/><br/>
 
 ---
 
-### 📊 Performance Metrics
+### 📈 Roadmap (Next to Learn)
+- [ ] Mastering **SQL** (Complex joins & analytics)
+- [ ] **Scikit-Learn** (Building foundational ML models)
+
+
+---
+
+### 📊 GitHub Stats
 
 ![Ezgi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ulkumezgiakbas&show_icons=true&theme=gruvbox)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ulkumezgiakbas&layout=compact&theme=gruvbox)
 
 ---
 
 <details>
- <summary><h3>👩‍💻 The Engineering Mindset</h3></summary>
-    My approach is rooted in Industrial Engineering: <b>Optimization, Efficiency, and Systems Thinking.</b> 
-    I don't just train models; I build the pipelines that make them useful. 
-    Focusing on <b>MLOps</b> and <b>Production-grade AI.</b>
-    Shipping code > Just thinking about it.
+ <summary><h3>👩‍💻 My Journey</h3></summary>
+    My approach is rooted in Industrial Engineering: <b>Optimization and Systems Thinking.</b> 
+    I believe in building real, functional tools.
+    Shipping code > Just dreaming about it.
 </details>
