@@ -2,10 +2,11 @@
 
 **`Developer & Aspiring AI Engineer`**
 
-I build things. From web experiences to ML experiments, I bridge the gap between Industrial Engineering logic and software development.  
-Industrial Engineering student → Full-stack learner → AI-curious creator.
+I build and train. My focus is strictly on Machine Learning, model architecture, and mastering AI libraries.
 
-I document my journey on Instagram **[@yourfavcoder]** — dev logs, code animations, and learning AI.
+Purely AI-driven → Focused on model training → Constant learner.
+
+I document my journey on Instagram [@yourfavcoder] — AI research, dev logs, and neural network experiments.
 
 <p align="left">
   <a href="https://www.instagram.com/yourfavcoder/">
