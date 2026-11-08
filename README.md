@@ -6,7 +6,6 @@ I build and train. My focus is strictly on Machine Learning, model architecture,
 
 Purely AI-driven → Focused on model training → Constant learner.
 
-I document my journey on Instagram [@yourfavcoder] — AI research, dev logs, and neural network experiments.
 
 <p align="left">
   <a href="https://www.instagram.com/yourfavcoder/">
